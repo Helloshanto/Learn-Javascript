@@ -58,9 +58,20 @@
 
 // ****** Bollean *******
 
+/*
 var bol1 = true
 var bol2 = false
 var bol3= Boolean(true)
 var bol4= Boolean(false)
 
 console.log(bol1,bol2 , bol3,bol4)
+*/
+
+
+// 015. Octal and Hexadecimal Number in Javascript
+
+var hex = 0xff
+console.log(hex)
+
+var oct = 0756
+console.log(oct)
