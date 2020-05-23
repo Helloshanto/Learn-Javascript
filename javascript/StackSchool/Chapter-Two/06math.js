@@ -1,10 +1,12 @@
 // 018. Math Functions Provided by Javascript
 
-console.log(Math.E)
-console.log(Math.PI)
+console.log(Math.E) //predefind
+console.log(Math.PI) //predefind
 
 var n = 4.589
-console.log(Math.abs(n)) //for exaxt number => 4
+console.log(Math.abs(n)) //for exaxt number => 
+console.log(Math.abs(-64)) //for exaxt number => 
+console.log(Math.abs(null)) //for exaxt number => 
 console.log(Math.floor(n)) // show intager , dosomik er por skip korbe => 4
 console.log(Math.ceil(n)) //show itager number but kacha kachi value //Output => 5
 console.log(Math.round(n)) // => ata avarge number dey 1.5 hole 2 dey ar 1.3 hole 1 dey
