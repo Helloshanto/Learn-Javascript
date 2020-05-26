@@ -1,3 +1,8 @@
+/**
+ * if(condition){ }
+ * else{}
+ **/
+
 var a = 6
 
 if (a % 2 == 0) {
